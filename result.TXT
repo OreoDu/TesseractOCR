@@ -1,0 +1,8 @@
+Many combinatorial optimization problems in practical applications have unique
+nuances and constraints, which make it impossible for us to solve known problems
+such as TSP only with the most advanced solutions. And this process requires us to
+develop heuristic methods for specific problems and it may be lengthy and arduous.
+And also it may require the domain experts to detect certain structures in the
+combined search space of a particular problem, However, when algorithm design
+can be automated through machine learning, the above problems can be solved.
+And perhaps a better solution can be produced.
